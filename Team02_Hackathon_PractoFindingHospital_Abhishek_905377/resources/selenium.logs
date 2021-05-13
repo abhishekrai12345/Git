@@ -1,0 +1,36 @@
+17:21:59,593  INFO devpinoyLogger<strong>{1}</strong>:42 -  
+17:21:59,602  INFO devpinoyLogger<strong>{1}</strong>:43 - The browser is invoked
+17:23:08,865  INFO devpinoyLogger<strong>{1}</strong>:134 - All the sections are verified
+17:23:08,866  INFO devpinoyLogger<strong>{1}</strong>:135 - The fields are verified with respect to the xpath 
+17:23:08,872  INFO devpinoyLogger<strong>{1}</strong>:37 -  
+17:23:08,872  INFO devpinoyLogger<strong>{1}</strong>:38 - The browser is invoked
+17:23:16,077  INFO devpinoyLogger<strong>{1}</strong>:110 - All the sections are verified
+17:23:16,077  INFO devpinoyLogger<strong>{1}</strong>:111 - The fields are verified with respect to the xpath 
+17:23:16,078  INFO devpinoyLogger<strong>{1}</strong>:112 - All Filters function is verified successfully
+17:25:07,584  INFO devpinoyLogger<strong>{1}</strong>:180 - All the sections are verified
+17:25:07,584  INFO devpinoyLogger<strong>{1}</strong>:181 - The fields are verified with respect to the xpath 
+17:25:07,585  INFO devpinoyLogger<strong>{1}</strong>:182 - Select Scroll function is verified successfully
+17:25:11,416  INFO devpinoyLogger<strong>{1}</strong>:237 - All the sections are verified
+17:25:11,417  INFO devpinoyLogger<strong>{1}</strong>:238 - The fields are verified with respect to the xpath 
+17:25:11,417  INFO devpinoyLogger<strong>{1}</strong>:239 - The list of all hospitals are listed successfully
+17:25:11,417  INFO devpinoyLogger<strong>{1}</strong>:240 -  
+17:25:24,978  INFO devpinoyLogger<strong>{1}</strong>:42 -  
+17:25:24,979  INFO devpinoyLogger<strong>{1}</strong>:43 - The browser is invoked
+17:25:29,861  INFO devpinoyLogger<strong>{1}</strong>:171 - All the sections are verified
+17:25:29,861  INFO devpinoyLogger<strong>{1}</strong>:172 - The fields are verified with respect to the xpath 
+17:25:29,868  INFO devpinoyLogger<strong>{1}</strong>:29 -  
+17:25:30,067  INFO devpinoyLogger<strong>{1}</strong>:56 - All the sections are verified
+17:25:30,067  INFO devpinoyLogger<strong>{1}</strong>:57 - The fields are verified with respect to the xpath 
+17:25:30,067  INFO devpinoyLogger<strong>{1}</strong>:58 - The list of top cities are printed successfully
+17:25:30,068  INFO devpinoyLogger<strong>{1}</strong>:59 -  
+17:25:31,501  INFO devpinoyLogger<strong>{1}</strong>:42 -  
+17:25:31,502  INFO devpinoyLogger<strong>{1}</strong>:43 - The browser is invoked
+17:25:32,723  INFO devpinoyLogger<strong>{1}</strong>:194 - All the sections are verified
+17:25:32,724  INFO devpinoyLogger<strong>{1}</strong>:195 - The fields are verified with respect to the xpath 
+17:25:32,724  INFO devpinoyLogger<strong>{1}</strong>:197 - The Diagonostic page is verified successfully
+17:25:32,724  INFO devpinoyLogger<strong>{1}</strong>:198 -  
+17:25:32,736  INFO devpinoyLogger<strong>{1}</strong>:39 -  
+17:25:49,419  INFO devpinoyLogger<strong>{1}</strong>:172 - All the sections are verified
+17:25:49,419  INFO devpinoyLogger<strong>{1}</strong>:173 - The fields are verified with respect to the xpath 
+17:25:49,419  INFO devpinoyLogger<strong>{1}</strong>:174 - The corporate wellness test is verified successfully
+17:25:49,420  INFO devpinoyLogger<strong>{1}</strong>:175 -  
